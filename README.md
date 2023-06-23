@@ -15,5 +15,5 @@ Het doel van deze deeltaak is ons warm te maken op het gebied van Socket.io. We 
 
 # BEKIJK DE WIKI 
 
-[WIKI]([https://github.com/D-spacezero/connecting-people-my-first-chatroom/wiki/1.-Ontwerpen](https://github.com/D-spacezero/connecting-people-my-first-chatroom/wiki)https://github.com/D-spacezero/connecting-people-my-first-chatroom/wiki)
+https://github.com/D-spacezero/connecting-people-my-first-chatroom/wiki
 
