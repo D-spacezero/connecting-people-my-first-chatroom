@@ -1,38 +1,19 @@
-> _Fork_ deze deeltaak en ga aan de slag. Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
+<img width="1900" alt="Screenshot 2023-06-23 at 00 00 27" src="https://github.com/D-spacezero/connecting-people-my-first-chatroom/assets/112856412/3abdb97a-4441-4717-9757-858bffd1b5aa">
 
-# Titel
+## Wat te doen
 
-<!-- Geef je project een titel en schrijf in één zin wat het is -->
 
-## Inhoudsopgave
+Tijdens het maken van deze eerst chatroom werken we niet alleen voor het eerst samen in socket.io maar ook gerbuiken we Adaptable / Railway voor het eerst.
 
-- [Beschrijving](#beschrijving)
-- [Gebruik](#gebruik)
-- [Kenmerken](#kenmerken)
-- [Installatie](#installatie)
-- [Bronnen](#bronnen)
-- [Licentie](#licentie)
 
-## Beschrijving
+***
 
-<!-- Bij Beschrijving staat kort beschreven wat voor project het is en wat je hebt gemaakt -->
-<!-- Voeg een mooie poster visual toe 📸 -->
-<!-- Voeg een link toe naar Github Pages 🌐-->
 
-## Gebruik
+## Het doel van deze opdracht
 
-<!-- Bij Gebruik staat de user story, hoe het werkt en wat je er mee kan. -->
+Het doel van deze deeltaak is ons warm te maken op het gebied van Socket.io. We leren het te gebruiken en krijgen inzicht van hoe handig dit eigelijk kan zijn dit ook in vervolg te gebruiken. We maken een chatroom en zetten deze om zodat die past bij de huisstijl van de opdrachtgever. Is dit gelukt dan is de opdracht volbracht.
 
-## Kenmerken
+# BEKIJK DE WIKI 
 
-<!-- Bij Kenmerken staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met JS gedaan en hoe? Misschien heb je iets met NodeJS gedaan, of heb je een framwork of library gebruikt? -->
+[WIKI]([https://github.com/D-spacezero/connecting-people-my-first-chatroom/wiki/1.-Ontwerpen](https://github.com/D-spacezero/connecting-people-my-first-chatroom/wiki)https://github.com/D-spacezero/connecting-people-my-first-chatroom/wiki)
 
-## Installatie
-
-<!-- Bij Instalatie staat hoe een andere developer aan jouw repo kan werken -->
-
-## Bronnen
-
-## Licentie
-
-This project is licensed under the terms of the [MIT license](./LICENSE).
